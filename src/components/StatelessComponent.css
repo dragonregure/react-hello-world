@@ -1,0 +1,7 @@
+.text-base {
+    color: aqua;
+}
+
+.text-base .text-important {
+    color: red;
+}
